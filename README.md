@@ -9,7 +9,7 @@ This repo contains the work of [Victor Elkjær Birk](https://github.com/victorel
 
 3. At the top of the [repo webpage](https://github.com/DannyDannyDanny/AIMAS18) press **setup in desktop** (or use terminal and git) to setup the repository on your machine. Take a note of the directory in which you place the repo.
 
-4. Enter your favorite Emoji below, then **commit** and **push** the git - verify that the emoji shows up on the [repo webpage](https://github.com/DannyDannyDanny/AIMAS18).
+4. Enter your favorite Emoji or something below, then **commit** and **push** the git - verify that the changes shows up on the [repo webpage](https://github.com/DannyDannyDanny/AIMAS18).
 
 ## About the authors
 * **Danny** mustache lvl 0
