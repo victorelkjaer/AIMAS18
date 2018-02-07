@@ -13,8 +13,8 @@ This repo contains the work of [Victor Elkjær Birk](https://github.com/victorel
 
 ## About the authors
 * **Danny** mustache lvl 0
-* **Victor**
-* **William**
+* **Victor** 
+* **William** mustache lvl over 9000
 
 ## Warmup Assignment
 
