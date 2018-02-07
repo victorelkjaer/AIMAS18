@@ -31,3 +31,7 @@ This repo contains the work of [Victor Elkjær Birk](https://github.com/victorel
   * *In the example above we are using the DFS algorithm and 2GB RAM.*
   * *Replace `-dfs`- with `-astar`, `-wastar` or `-greedy` to change search algorithm*
   * *Replace `-Xmx2g` with another RAM setting limit or `-jar`*
+
+### Resources
+* Link to [Assignment PDF](https://github.com/DannyDannyDanny/AIMAS18/blob/master/01%20Warmup%20Assignment/warmup_assignment.pdf) on Github.
+* Link to [ShareLatex](https://www.sharelatex.com/project/5a79731f0a8b9e0448e6e12c).
